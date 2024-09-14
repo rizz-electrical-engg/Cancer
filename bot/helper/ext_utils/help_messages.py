@@ -21,7 +21,7 @@ yt = """
 /cmd -n new name -z password -opt x:y|x1:y1
 
 Check all supported <a href='https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md'>SITES</a>
-Check all yt-dlp API options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a> or use this <a href='https://t.me/mltb_official_channel/177'>script</a> to convert CLI arguments to API options.
+Check all yt-dlp API options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a> or use this <a href='https://t.me/LeechxMirrorGroup/8'>script</a> to convert CLI arguments to API options.
 """
 
 clone = """
